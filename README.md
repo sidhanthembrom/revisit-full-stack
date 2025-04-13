@@ -7,8 +7,8 @@
 - **Deployment:**  
   - Vercel: [Frontend](https://revisit-frontend-eight.vercel.app/)  
   - Render: [Backend](https://revisit-backend-hkwo.onrender.com)  
-  - GitHub Repo: [Full Stack](https://github.com/sidhanthembrom/revisit-full-stack.git)
-```
+  - GitHub Repo: [Full-Stack](https://github.com/sidhanthembrom/revisit-full-stack.git)
+
 ---
 
 ## FEATURES :-
@@ -38,22 +38,26 @@
 ```
 * Clone the Git Project:
     ~ git clone https://github.com/sidhanthembrom/revisit-full-stack.git
+```
 
-FRONTEND:
-    * Navigating to the directory:
-        ~ cd frontend
-    * Install Frontend Dependencies:
-        ~ npm install
-    * Start the Frontend:
-        ~ npm start
+### FRONTEND:
+```
+* Navigating to the directory:
+    ~ cd frontend
+* Install Frontend Dependencies:
+    ~ npm install
+* Start the Frontend:
+    ~ npm start
+```
 
-BACKEND:
-    * Navigating to the directory:
-        ~ cd backend
-    * Install Dependencies:
-        ~ npm install
-    * Start the server:
-        ~ node server.js
+### BACKEND:
+```
+* Navigating to the directory:
+    ~ cd backend
+* Install Dependencies:
+    ~ npm install
+* Start the server:
+    ~ node server.js
 ```
 
 ---
